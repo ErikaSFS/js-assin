@@ -1,4 +1,4 @@
-const BASE_URL = "https://api.thecatapi.com/v1/images/search";
+const BASE_URL = "https://thecatapi.com/";
 
 const getCats = async () => {
 	try {
