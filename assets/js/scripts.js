@@ -1,4 +1,4 @@
-const BASE_URL = 'https://dog.ceo/api/breeds/image/random';
+const BASE_URL = 'https://dog.ceo/api/breeds/list/all';
 
 const getCats = async () => {
 	try {
