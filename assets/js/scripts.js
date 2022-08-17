@@ -1,4 +1,4 @@
-const BASE_URL = "https://pokeapi.co/api/v2/pokemon/ditto";
+const BASE_URL = 'https://dog.ceo/api/breeds/image/random';
 
 const getCats = async () => {
 	try {
