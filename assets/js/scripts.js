@@ -1,4 +1,4 @@
-const BASE_URL = "https://thecatapi.com/";
+const BASE_URL = "https://pokeapi.co/api/v2/pokemon/ditto";
 
 const getCats = async () => {
 	try {
